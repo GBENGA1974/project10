@@ -171,6 +171,6 @@ resource "aws_security_group" "project10-vpc-security-group" {
   }
 
   tags = {
-    Name = "project10-vpc-security-group"
+    Name = "project10-vpc-security-grp"
   }
 }
